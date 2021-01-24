@@ -1,7 +1,9 @@
 # Textblock Poc
 
-Parsing a text from https://lipsum.com with many paragraphs, get just the first one and print in the console
-URL: [https://github.com/jarmandomtz/java15-textblock-poc](https://github.com/jarmandomtz/java15-textblock-poc)
+Parsing a text from https://lipsum.com with many paragraphs, get just the first one and print in the console  
+
+URL:   
+  [https://github.com/jarmandomtz/java15-textblock-poc](https://github.com/jarmandomtz/java15-textblock-poc)
 
 ## Paragraphs
 
